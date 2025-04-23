@@ -4,7 +4,7 @@
 Plugin Name: Preload LCP Image
 Plugin URI: https://dwinrhys.com/preload-largest-contentful-paint-image-wordpress-plugin/?utm_source=wordpressorgplugin&utm_medium=wordpress&utm_campaign=preload_lcp
 Description: Plugin to preload the LCP element within WordPress
-Version: 1.4
+Version: 1.4.1
 Author: Dwi'n Rhys
 Author URI: https://dwinrhys.com/?utm_source=wordpressorgplugin&utm_medium=wordpress&utm_campaign=preload_lcp
 */
